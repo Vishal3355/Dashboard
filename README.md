@@ -1,21 +1,19 @@
-# Create React App example
+# Dashboard web UI
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
-
+Clone the project from [repo](https://OrangeTechnology@bitbucket.org/orangetechnologyteam/dashboard.git):
 ```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
+git clone https://OrangeTechnology@bitbucket.org/orangetechnologyteam/dashboard.git
+```
+Install Node using [ instructions](https://nodejs.org/en/download/)
+Install Yarn using [instructions](https://yarnpkg.com/lang/en/docsa/install/#mac-stable)
+
+**Once you install all required software, run following command to run application:**
+```sh
+yarn install
+yarn run start
 ```
 
-Install it and run:
-
-```sh
-npm install
-npm run start
-```
-
-## The idea behind the example
-
+## The idea behind the project
 [Create React App](https://github.com/facebookincubator/create-react-app) with no build configuration.
