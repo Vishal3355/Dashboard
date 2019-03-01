@@ -14,6 +14,8 @@ Install Yarn using [instructions](https://yarnpkg.com/lang/en/docsa/install/#mac
 yarn install
 yarn run start
 ```
-
+**To Login you need to use following username and password**
+    User: admin@gmail.com
+    Password: Admin@123
 ## The idea behind the project
 [Create React App](https://github.com/facebookincubator/create-react-app) with no build configuration.
