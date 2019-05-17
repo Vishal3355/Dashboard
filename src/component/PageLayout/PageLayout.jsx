@@ -17,7 +17,7 @@ import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 //import AccountCircle from '@material-ui/icons/AccountCircle';
 import { mainListItems, secondaryListItems } from './listItems';
 import styles from './styles';
-import Profile from '../profille/Profile';
+import Profile from '../Profille/Profile';
 
 class PageLayout extends React.Component {
   constructor(props) {
@@ -87,7 +87,7 @@ class PageLayout extends React.Component {
           </div>
           <Divider />
           <List>{mainListItems}</List>
-          <Divider />
+          <Divider /> 
           <List>{secondaryListItems}</List>
         </Drawer>
       </React.Fragment>

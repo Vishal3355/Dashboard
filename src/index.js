@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Amplify from 'aws-amplify';
 import { BrowserRouter as Router } from 'react-router-dom';
-import App from './component/app/App';
+import App from './component/App/App';
 import config from './awsConfig';
 
 const awsConfig = {
